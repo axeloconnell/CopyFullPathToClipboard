@@ -2611,7 +2611,7 @@
 		<col def="I2">Encoded</col>
 		<col def="S0">Comment</col>
 		<col def="I4">TimeStamp</col>
-		<row><td>COMPANY_NAME</td><td>1033</td><td>AxelOConnell</td><td>0</td><td/><td>1789136533</td></row>
+		<row><td>COMPANY_NAME</td><td>1033</td><td>AxelOConnell</td><td>0</td><td/><td>1789138134</td></row>
 		<row><td>DN_AlwaysInstall</td><td>1033</td><td>Always Install</td><td>0</td><td/><td>1789152853</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_COLOR</td><td>1033</td><td>The color settings of your system are not adequate for running [ProductName].</td><td>0</td><td/><td>1789152853</td></row>
 		<row><td>IDPROP_EXPRESS_LAUNCH_CONDITION_OS</td><td>1033</td><td>The operating system is not adequate for running [ProductName].</td><td>0</td><td/><td>1789152853</td></row>
@@ -3712,8 +3712,8 @@
 		<row><td>IDS__TargetReq_DESC_RAM</td><td>1033</td><td>The amount of RAM is not adequate for running [ProductName].</td><td>0</td><td/><td>1789152853</td></row>
 		<row><td>IDS__TargetReq_DESC_RESOLUTION</td><td>1033</td><td>The screen resolution is not adequate for running [ProductName].</td><td>0</td><td/><td>1789152853</td></row>
 		<row><td>ID_STRING1</td><td>1033</td><td/><td>0</td><td/><td>1789154901</td></row>
-		<row><td>ID_STRING2</td><td>1033</td><td>http://www.google.com</td><td>0</td><td/><td>1789152917</td></row>
-		<row><td>ID_STRING3</td><td>1033</td><td>AxelOConnell</td><td>0</td><td/><td>1789136533</td></row>
+		<row><td>ID_STRING2</td><td>1033</td><td>http://www.AxelOConnell.com</td><td>0</td><td/><td>1789138134</td></row>
+		<row><td>ID_STRING3</td><td>1033</td><td>AxelOConnell</td><td>0</td><td/><td>1789138134</td></row>
 		<row><td>IIDS_UITEXT_FeatureUninstalled</td><td>1033</td><td>This feature will remain uninstalled.</td><td>0</td><td/><td>1789152853</td></row>
 	</table>
 
@@ -4401,8 +4401,8 @@ UwBpAG4AZwBsAGUASQBtAGEAZwBlAAEARQB4AHAAcgBlAHMAcwA=
 		<col def="S0">Value</col>
 		<col def="s72">Component_</col>
 		<col def="I4">ISAttributes</col>
-		<row><td>Registry1</td><td>0</td><td>*\shell\Copy path to clipboard\command</td><td/><td>"[INSTALLDIR]\SetClipboard" %1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
-		<row><td>Registry2</td><td>0</td><td>Directory\shell\Copy path to clipboard\command</td><td/><td>"[INSTALLDIR]\SetClipboard" %1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
+		<row><td>Registry1</td><td>0</td><td>*\shell\Copy path into clipboard\command</td><td/><td>"[INSTALLDIR]\SetClipboard" %1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
+		<row><td>Registry2</td><td>0</td><td>Directory\shell\Copy path into clipboard\command</td><td/><td>"[INSTALLDIR]\SetClipboard" %1</td><td>ISX_DEFAULTCOMPONENT1</td><td>0</td></row>
 	</table>
 
 	<table name="RemoveFile">
