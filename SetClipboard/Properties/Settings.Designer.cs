@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CopyFullPathToClipboard.Properties
+namespace SetClipboard.Properties
 {
 
 
